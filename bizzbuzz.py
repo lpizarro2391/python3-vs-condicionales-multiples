@@ -1,0 +1,1 @@
+numero=int(input("indique un valor entero"))
